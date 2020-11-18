@@ -4,9 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 class UserImagePicker extends StatefulWidget {
-  UserImagePicker(
-      this.imagePickFn,
-      );
+
+  UserImagePicker(this.imagePickFn,);
 
   final void Function(File pickedImage) imagePickFn;
 
@@ -15,10 +14,12 @@ class UserImagePicker extends StatefulWidget {
 }
 
 class _UserImagePickerState extends State<UserImagePicker> {
+
   File _pickedImage;
   ImagePicker picker = ImagePicker();
 
   void _pickImage(ImageSource imageSource) async {
+
     final pickedImageFile = await picker.getImage(
       source: imageSource,
     );
