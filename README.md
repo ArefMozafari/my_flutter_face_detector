@@ -1,10 +1,10 @@
 # my_flutter_face_detector
 
-Flutter Face Detector
+Flutter Face Detector using firebase ml kit
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Just pull the repo and use Android Studio or VSCode to run.
 
 A few resources to get you started if this is your first Flutter project:
 
