@@ -1,10 +1,12 @@
-# my_flutter_face_detector
+# My Flutter Face Detector
 
-Flutter Face Detector using firebase ml kit
+Flutter Face Detector application using Firebase ML Vision Kit
+
+![https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png]
 
 ## Getting Started
 
-Just pull the repo and use Android Studio or VSCode to run.
+Just clone the repo and use Android Studio or VS Code to open it and run.
 
 A few resources to get you started if this is your first Flutter project:
 
