@@ -2,7 +2,7 @@
 
 Flutter Face Detector application using Firebase ML Vision Kit
 
-![https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png]
+<img src="https://user-images.githubusercontent.com/29792606/104105366-b5abcb80-52c2-11eb-8572-4a308f685952.gif" width="200">
 
 ## Getting Started
 
